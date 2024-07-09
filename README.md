@@ -1,2 +1,3 @@
 # demo
-This is my first git repsository
+This is my first git repsository.
+Author - Saurabh Mudgal
